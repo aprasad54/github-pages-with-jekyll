@@ -1,5 +1,5 @@
 ---
-title: This is my first blog page with written text in it.
+title: "This is my first blog page with written text in it."
 date: 2020-11-17
 ---
 Learning objectives.

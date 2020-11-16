@@ -1,13 +1,18 @@
-title: Your awesome title
-author: GitHub User
+title: GitHub Practice to Create a Website
+author: Anuraag Prasad
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Modern businesses are charged with keeping troves of sensitive data safe in the cloud. 
+  These companies need IT professionals who have a solid grasp of core infrastructure components and security controls. 
+  Earning the Certified Cloud Security Professional (CCSP) certification validates your cloud security knowledge and makes you stand out to potential employers. 
+  In this course, learn how to design a secure cloud operating environment as you prepare for the third domain of the CCSP exam: Cloud Platform and Infrastructure Security. 
+  Learn about the components of cloud infrastructure and how to design a secure data center. 
+  Plus, see how to design and plan out security controls, disaster recovery, and business continuity strategies.
 
+Note: This course is designed to cover the most recent version of the CCSP exam, released in August 2019.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
